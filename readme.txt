@@ -1,0 +1,2 @@
+Para utilizar basta compilar o "SimpleWebServer" e acessar no navegador "localhost:8080"
+Caso queira utilizar as funções de PUT e DELETE sem utilizar um postman, basta fechar o localhost do navegador para que não prejudique na conexão e então rode o projeto "ConsumeWebService" para que possa ter uma interação via line command
